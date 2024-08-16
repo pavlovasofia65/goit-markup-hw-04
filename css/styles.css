@@ -397,7 +397,8 @@ background-color: #404bbf;
     margin-left: 16px;
 }
 
-.social-media-link:hover {
+.social-media-link:hover, 
+.social-media-link:focus {
     background-color: #404bbf;
 }
 
